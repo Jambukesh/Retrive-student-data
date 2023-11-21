@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\bin\Debug\student data from a text file.exe.config
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\bin\Debug\student data from a text file.exe
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\bin\Debug\student data from a text file.pdb
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\obj\Debug\student data from a text file.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\obj\Debug\student data from a text file.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\obj\Debug\student data from a text file.exe
+D:\mphasis\problem statement\simply learn projects\section 6 ,1.14\student data from a text file\student data from a text file\obj\Debug\student data from a text file.pdb
